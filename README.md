@@ -2,4 +2,4 @@ TestRepo
 ========
 
 A Test Repository
-From the sandbox!
+For learning GitHub!
